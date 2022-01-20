@@ -1,6 +1,6 @@
 {
-  "name": "style-dictionary",
-  "version": "3.1.1",
+  "name": "@invideoio/style-dictionary",
+  "version": "1.0.0",
   "description": "Style once, use everywhere. A build system for creating cross-platform styles.",
   "keywords": [
     "style dictionary",
@@ -102,7 +102,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/amzn/style-dictionary.git"
+    "url": "git@github.com:invideoio/style-dictionary.git"
   },
   "author": "Amazon",
   "license": "Apache-2.0",
